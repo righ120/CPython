@@ -8,5 +8,4 @@ Visual Studio 로 Python용 C++ 확장 만들기 (<a href="https://docs.microsof
 
 program files(x86)\Windows tollkit\10\10.017~\x86\rc.exe 와 rcdll.dll 파일을 복사해서 Visual Studio 14.0\VC\bin 아래로 넣어줌! 그 다음엔 잘 됨!
 
-
-<img src="캡처.png"/>
+![alt text]https://github.com/righ120/CPython/blob/master/%EC%BA%A1%EC%B2%98.PNG
